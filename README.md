@@ -10,3 +10,4 @@ deltaspike data module example (with jee7)
 - db schema drop-create
 - import.sql
 - Automatically generated RESTful API documentation (enunciate)
+- Integrated with Docker
